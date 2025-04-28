@@ -1,0 +1,2 @@
+"Incident ID","Date/Time","Severity","Description","Owner","Status","Resolution Summary","Stakeholder Notified (Y/N)"
+"INC12345","MM/DD/YYYY","Major","Outage in App X","John","Closed","Restarted service","Y"
